@@ -1,8 +1,5 @@
-# web.php
-https://github.com/IamAbbass/Croppie.js/blob/main/web.php
+# Croppie.js
 
-# ProductController.php
-https://github.com/IamAbbass/Croppie.js/blob/main/ProductController.php
-
-# create.blade.php
-https://github.com/IamAbbass/Croppie.js/blob/main/create.blade.php
+File 1: https://github.com/IamAbbass/Croppie.js/blob/main/web.php
+File 2: https://github.com/IamAbbass/Croppie.js/blob/main/ProductController.php
+File 3: https://github.com/IamAbbass/Croppie.js/blob/main/create.blade.php
