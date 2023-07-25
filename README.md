@@ -1,8 +1,8 @@
-File#1 web.php,
+# web.php
 Route::get('/create', [ProductController::class, 'create']);
 Route::post('/store', [ProductController::class, 'store']);
 
-File#2 ProductController.php,
+# File#2 ProductController.php
 <?php
 
 namespace App\Http\Controllers;
@@ -36,8 +36,7 @@ class ProductController extends Controller
 }
 
 
-
-File#3 create.blade.php,
+# File#3 create.blade.php
 <!DOCTYPE html>
 <html>
 <head>
